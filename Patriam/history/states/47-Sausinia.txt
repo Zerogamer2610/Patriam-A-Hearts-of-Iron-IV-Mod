@@ -1,0 +1,9 @@
+state={
+	id=47
+	name="Sausinia"
+	provinces={
+		498 1137 1582 2392 2749 2975 3110 3861 6556 6585 6595 6619 6636 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

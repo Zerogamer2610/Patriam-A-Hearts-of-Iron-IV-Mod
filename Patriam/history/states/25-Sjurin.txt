@@ -1,0 +1,9 @@
+state={
+	id=32
+	name="Sjurin"
+	provinces={
+		162 1132 1823 2672 3036 3478 3717 4498 4625 5661 5723 5758 5779 5792 5825 5853 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

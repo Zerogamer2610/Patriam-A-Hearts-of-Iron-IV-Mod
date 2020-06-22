@@ -1,0 +1,10 @@
+
+state={
+	id=80
+	name="Central Aeloen Ranges"
+	provinces={
+		884 984 1533 1896 2002 2571 2932 3218 3281 3335 3881 3950 4321 4331 4386 6615 6637 6649 6667 6668 6683 6693 6701 6702 6710 6713 6732 6753 6782 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=76
+	name="Aelo Svordinias"
+	provinces={
+		144 1805 3137 3739 4101 4126 4312 4506 4719 6411 6517 6543 6587 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

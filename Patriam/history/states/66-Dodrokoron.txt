@@ -1,0 +1,9 @@
+state={
+	id=66
+	name="Dodrokoron"
+	provinces={
+		17 1785 2678 2702 3025 3220 3283 4340 6159 6192 6193 6194 6207 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

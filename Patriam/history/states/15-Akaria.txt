@@ -1,0 +1,9 @@
+state={
+	id=15
+	name="Akaria"
+	provinces={
+		348 1058 2388 2968 3576 4649 7044 7060 7086 7090 7106 7115 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

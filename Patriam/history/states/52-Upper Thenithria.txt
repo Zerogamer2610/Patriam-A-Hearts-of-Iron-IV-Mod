@@ -1,0 +1,9 @@
+state={
+	id=52
+	name="Upper Thenithria"
+	provinces={
+		690 744 1487 2335 2493 2517 2735 3450 3605 3660 4271 4715 6660 6678 6679 6727 6731 6735 6736 6758 6761 6762 6778 6780 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

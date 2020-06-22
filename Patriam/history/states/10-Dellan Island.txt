@@ -1,0 +1,9 @@
+state={
+	id=13
+	name="Dellan Island"
+	provinces={
+		4007 4190 6284 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

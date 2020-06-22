@@ -1,0 +1,9 @@
+state={
+	id=78
+	name="Durnithorpe"
+	provinces={
+		781 1818 2308 3304 3793 4232 4324 6427 6489 6506 6525 6529 6546 6569 6581 6586 6600 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=29
+	name="Kallerion"
+	provinces={
+		607 2393 3315 3997 4220 4665 6369 6384 6397 6416 6430 6436 6459 6468 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

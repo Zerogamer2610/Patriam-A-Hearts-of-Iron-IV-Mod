@@ -1,0 +1,9 @@
+state={
+	id=8
+	name="Talei Island"
+	provinces={
+		3962 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

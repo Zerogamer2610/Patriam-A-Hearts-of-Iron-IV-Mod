@@ -1,0 +1,9 @@
+state={
+	id=33
+	name="Skopos"
+	provinces={
+		11 208 657 927 2143 2285 4147 4443 4775 6306 6319 6349 6359 6362 6394 6483 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

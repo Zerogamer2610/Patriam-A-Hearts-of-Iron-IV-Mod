@@ -1,0 +1,9 @@
+state={
+	id=31
+	name="Nojin"
+	provinces={
+		1067 2127 4083 4134 4136 4693 5840 5858 5881 5912 5921 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

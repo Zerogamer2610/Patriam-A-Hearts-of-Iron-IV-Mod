@@ -1,0 +1,9 @@
+state={
+	id=5
+	name="Samos"
+	provinces={
+		830 1136 1239 2963 2964 3677 3889 4246 4421 6495 6514 6545 6589 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

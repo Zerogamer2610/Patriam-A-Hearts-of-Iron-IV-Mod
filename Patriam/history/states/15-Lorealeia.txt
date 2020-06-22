@@ -1,0 +1,9 @@
+state={
+	id=19
+	name="Lorealeia"
+	provinces={
+		400 2807 2959 4500 7010 7119 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

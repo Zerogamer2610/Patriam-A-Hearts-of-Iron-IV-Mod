@@ -1,0 +1,9 @@
+state={
+	id=54
+	name="Sinostria"
+	provinces={
+		1226 1229 2011 3742 3806 4538 4563 4664 6954 6966 6977 7056 7071 7091 7107 7121 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

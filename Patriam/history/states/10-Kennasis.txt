@@ -1,0 +1,9 @@
+state={
+	id=14
+	name="Kennasis"
+	provinces={
+		1297 1759 4217 6119 6139 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

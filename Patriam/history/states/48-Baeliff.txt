@@ -1,0 +1,9 @@
+state={
+	id=48
+	name="Baeliff"
+	provinces={
+		182 349 2538 2928 3205 3496 3646 4618 7150 7166 7171 7172 7193 7214 7225 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

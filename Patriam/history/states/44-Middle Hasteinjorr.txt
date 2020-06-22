@@ -1,0 +1,9 @@
+state={
+	id=44
+	name="Middle Hasteinjorr"
+	provinces={
+		664 894 905 1042 1763 2476 3133 4230 4454 4642 5839 5841 5842 5862 5874 5903 5906 5920 5974 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

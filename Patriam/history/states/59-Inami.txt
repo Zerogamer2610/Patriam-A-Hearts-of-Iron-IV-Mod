@@ -1,0 +1,9 @@
+state={
+	id=59
+	name="Inami"
+	provinces={
+		588 1288 1549 1581 4265 4518 4592 7138 7156 7186 7194 7208 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

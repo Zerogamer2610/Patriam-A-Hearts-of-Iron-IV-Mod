@@ -1,0 +1,9 @@
+state={
+	id=51
+	name="Arbindrothnia"
+	provinces={
+		408 1045 1757 2176 2325 2560 3994 4426 4635 4696 6755 6781 6796 6798 6823 6827 6838 6850 6861 6921 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

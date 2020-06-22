@@ -1,0 +1,9 @@
+state={
+	id=43
+	name="South Hasteinjorr"
+	provinces={
+		91 101 1026 1566 2413 4283 4448 4769 5946 5961 5984 5989 5999 6000 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=81
+	name="Southern Aeloen Ranges"
+	provinces={
+		296 310 422 439 1201 1400 2201 2955 3392 4132 4584 6728 6764 6769 6787 6841 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

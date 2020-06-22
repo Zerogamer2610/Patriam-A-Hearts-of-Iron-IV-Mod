@@ -1,0 +1,9 @@
+state={
+	id=34
+	name="The Three Doors"
+	provinces={
+		10 820 1327 2048 2194 2283 3249 3498 3501 4060 4605 4812 7062 7146 7161 7175 7184 7187 7206 7217 7232 7261 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

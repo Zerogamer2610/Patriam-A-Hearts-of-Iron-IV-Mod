@@ -1,0 +1,9 @@
+state={
+	id=28
+	name="Kalleras"
+	provinces={
+		429 1214 2961 3144 4524 4705 4762 6227 6258 6259 6281 6312 6331 6338 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

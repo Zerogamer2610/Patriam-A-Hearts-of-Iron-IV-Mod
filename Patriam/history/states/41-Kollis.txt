@@ -1,0 +1,9 @@
+state={
+	id=41
+	name="Kollis"
+	provinces={
+		700 1523 1948 2075 2469 2491 3065 3531 4371 4468 4556 4777 4778 4826 6014 6032 6076 6081 6090 6102 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

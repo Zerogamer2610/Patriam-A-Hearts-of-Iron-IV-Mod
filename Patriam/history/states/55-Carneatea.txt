@@ -1,0 +1,9 @@
+state={
+	id=55
+	name="Carnetea"
+	provinces={
+		633 718 910 1562 2145 2223 2739 3614 4204 4259 4355 4462 4473 4724 6882 6902 6911 6918 6953 6969 6986 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

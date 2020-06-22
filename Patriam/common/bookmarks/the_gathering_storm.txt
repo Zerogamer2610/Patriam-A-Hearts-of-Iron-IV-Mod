@@ -1,0 +1,18 @@
+bookmarks = {
+	bookmark = {
+		name = "The Age of Expansion"
+		desc = "The Age of Expansion is upon Patriam"
+		date = 11750.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "KET"
+		default = yes
+		
+		"KET"={
+			history = "TEST COUNTRY"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

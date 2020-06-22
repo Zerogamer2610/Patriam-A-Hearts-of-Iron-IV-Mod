@@ -1,0 +1,9 @@
+state={
+	id=85
+	name="Dorinma"
+	provinces={
+		276 1093 2430 2435 2440 2683 3146 3856 4168 4274 4624 4685 5810 5823 5845 5871 5872 5942 5965 5980 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

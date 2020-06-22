@@ -1,0 +1,9 @@
+state={
+	id=30
+	name="Sarin"
+	provinces={
+		1010 1018 2541 2802 2977 3363 4228 4564 4718 5688 5710 5717 5727 5741 5765 5799 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

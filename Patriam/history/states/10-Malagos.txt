@@ -1,0 +1,9 @@
+state={
+	id=11
+	name="Malagos"
+	provinces={
+		416 513 1154 2051 2746 3005 3320 4648 4765 6172 6328 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

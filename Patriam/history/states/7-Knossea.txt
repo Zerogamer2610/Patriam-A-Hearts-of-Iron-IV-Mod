@@ -1,0 +1,9 @@
+state={
+	id=9
+	name="Knossea"
+	provinces={
+		1426 1606 1998 3684 4099 4387 4456 6191 6202 6243 6257 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=1
+	name="Minos"
+	provinces={
+		525 925 2190 2934 3305 3497 4069 4510 6531 6542 6567 6584 7614 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

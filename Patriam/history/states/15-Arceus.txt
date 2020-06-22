@@ -1,0 +1,9 @@
+state={
+	id=17
+	name="Arceus"
+	provinces={
+		111 1470 1891 2332 2367 3512 3520 4122 4662 4815 6313 6337 6342 6345 6370 6371 6377 6378 6400 6425 6456 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

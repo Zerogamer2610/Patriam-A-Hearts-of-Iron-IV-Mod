@@ -1,0 +1,9 @@
+state={
+	id=38
+	name="Irithitus"
+	provinces={
+		1403 1405 1641 1907 2068 2229 2825 4091 4229 4761 6092 6116 6136 6140 6145 6156 6197 6218 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

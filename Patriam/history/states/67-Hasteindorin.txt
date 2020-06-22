@@ -1,0 +1,9 @@
+state={
+	id=67
+	name="Hasteindorin"
+	provinces={
+		282 503 591 1102 1724 1796 1834 3138 3360 3587 4082 4123 4422 4439 6021 6051 6062 6080 6103 6108 6117 6125 6127 6137 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

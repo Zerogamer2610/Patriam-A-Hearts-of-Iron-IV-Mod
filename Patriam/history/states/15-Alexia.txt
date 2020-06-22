@@ -1,0 +1,9 @@
+state={
+	id=16
+	name="Alexia"
+	provinces={
+		1082 1334 1636 1673 3108 3415 4406 6404 6440 6458 6463 6472 6503 6504 6522 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

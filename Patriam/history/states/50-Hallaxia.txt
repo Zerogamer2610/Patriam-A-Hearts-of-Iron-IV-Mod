@@ -1,0 +1,9 @@
+state={
+	id=50
+	name="Hallaxia"
+	provinces={
+		421 620 1813 1941 2284 2495 2623 2777 3012 3630 3766 4076 4171 4479 6682 6741 6759 6763 6765 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

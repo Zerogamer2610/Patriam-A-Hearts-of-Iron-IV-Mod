@@ -1,0 +1,23 @@
+state={
+	id=6
+	name="Ketan"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			6303 1
+		}
+	}
+	provinces={
+		2732 3842 3936 4441 4734 4788 6216 6262 6270 6303 6348 7612 
+	}
+	buildings_max_level_factor = 1.000
+}

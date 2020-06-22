@@ -1,0 +1,9 @@
+state={
+	id=4
+	name="Torothodros"
+	provinces={
+		649 1899 3091 3476 3887 4150 4250 4253 4698 4726 4846 6339 6357 6376 6407 6408 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

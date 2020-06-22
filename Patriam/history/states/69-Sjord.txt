@@ -1,0 +1,9 @@
+state={
+	id=69
+	name="Sjord"
+	provinces={
+		648 761 888 1989 2987 3181 3549 4770 5868 5893 5898 5901 5969 5994 5998 6026 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

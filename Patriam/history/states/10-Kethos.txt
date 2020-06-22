@@ -1,0 +1,9 @@
+state={
+	id=10
+	name="Kethos"
+	provinces={
+		1962 2291 2421 2687 3111 3537 4555 6198 6222 6254 6285 6300 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

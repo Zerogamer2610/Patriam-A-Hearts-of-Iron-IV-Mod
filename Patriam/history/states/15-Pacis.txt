@@ -1,0 +1,9 @@
+state={
+	id=20
+	name="Pacis"
+	provinces={
+		2806 2826 3185 3242 3254 6217 6240 6266 6282 6286 6293 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}
