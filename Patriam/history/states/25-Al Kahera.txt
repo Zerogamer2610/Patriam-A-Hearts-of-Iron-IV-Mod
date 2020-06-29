@@ -1,9 +1,13 @@
 state={
 	id=25
-	name="Al Kahera"
+	name="Al-Caira"
 	provinces={
 		1332 1511 2923 3057 3227 3999 4440 7168 7188 7201 7213 7243 7256 
 	}
-	manpower=100
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=5813
 	buildings_max_level_factor=1.000
 }

@@ -1,9 +1,13 @@
 state={
 	id=60
-	name="Iamaq"
+	name="Polia"
 	provinces={
 		6 564 1490 2157 2414 2559 3744 4818 7042 7058 7078 7085 7105 7117 7144 7145 7170 7177 7197 7210 
 	}
-	manpower=100
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=31732
 	buildings_max_level_factor=1.000
 }

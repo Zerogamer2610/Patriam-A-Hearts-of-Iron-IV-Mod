@@ -1,10 +1,14 @@
 
 state={
 	id=62
-	name="Anabiaq"
+	name="Nabissa"
 	provinces={
 		81 209 614 621 1310 1628 1958 2092 2191 2442 2855 3397 3642 3770 3913 3933 4142 4428 4548 4627 6994 7028 7041 7046 7057 7070 7077 7093 7110 7113 7126 7136 7152 7153 7165 
 	}
-	manpower=100
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=13563
 	buildings_max_level_factor=1.000
 }

@@ -4,6 +4,10 @@ state={
 	provinces={
 		615 779 1802 2366 2543 3131 3167 3188 3371 3407 3588 3726 4039 4495 4546 4663 4687 6880 6909 6931 6934 6950 6979 6981 6992 6997 7027 7034 7059 
 	}
-	manpower=0
+	history={
+		owner = AHL
+        	add_core_of = AHL
+   	}
+	manpower=5863
 	buildings_max_level_factor=1.000
 }

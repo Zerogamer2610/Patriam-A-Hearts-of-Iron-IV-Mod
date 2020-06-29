@@ -1,10 +1,10 @@
-﻿capital = 60
+﻿capital = 138
 
-oob = "AKA_1936"
+oob = "QAL_1936"
 
 set_convoys = 10
 set_politics = {
-	ruling_party = neutrality #supposed to be chauvinism
+	ruling_party = neutrality #supposed to be traditionalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -14,9 +14,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Emperor [Name]" #look i have no good ideas for his name 
+	name = "Salim III"
 	desc = ""
-	picture = "AKA_.tga"
+	picture = "SRQ_Salim.tga"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

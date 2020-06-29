@@ -30,3 +30,19 @@
  GER:0 "Germany"
  GER_DEF:0 "Germany"
  GER_ADJ:0 "German"
+ 
+ QAL:0 "Qalaan"
+ QAL_DEF:0 "the Republic of Qalaan"
+ QAL_ADJ:0 "Qalaani"
+ 
+ AHL:0 "Emirate of Ahalib"
+ AHL_DEF:0 "the Emirate of Ahalib"
+ AHL_ADJ:0 "Ahalibian"
+ 
+ AKA:0 "Akarian Empire"
+ AKA_DEF:0 "the Akarian Empire"
+ AKA_ADJ:0 "Akarian"
+ 
+ SRQ:0 "Saraqa"
+ SRQ_DEF:0 "the Saraqan State"
+ SRQ_ADJ:0 "Saraqan"

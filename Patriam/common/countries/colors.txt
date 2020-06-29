@@ -1,0 +1,19 @@
+QAL = {
+	color = rgb { 82 204 200 }
+	color_ui = rgb { 82 204 200 }
+}
+
+AHL = {
+	color = rgb { 113 153 61 }
+	color_ui = rgb { 113 153 61 }
+}
+
+AKA = {
+	color = rgb { 91 138 74 }
+	color_ui = rgb { 91 138 74 }
+}
+
+SRQ = {
+	color = rgb { 179 164 73 }
+	color_ui = rgb { 179 164 73 }
+}

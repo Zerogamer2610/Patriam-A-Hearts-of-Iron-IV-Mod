@@ -1,9 +1,13 @@
 state={
 	id=58
-	name="Akenmia"
+	name="Canem"
 	provinces={
 		200 883 1514 1603 1745 2044 2059 3022 3109 4226 4585 7004 7018 7030 7035 7039 7079 7082 7089 7108 7114 7127 7137 7140 7155 
 	}
-	manpower=100
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=17391
 	buildings_max_level_factor=1.000
 }

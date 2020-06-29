@@ -4,6 +4,10 @@ state={
 	provinces={
 		551 1002 1068 1761 1790 2004 2823 3045 3060 3134 3456 3475 3654 3683 3922 4211 4565 6834 6857 6869 6871 6872 6891 6901 6932 6947 6960 6962 6975 6976 7003 
 	}
-	manpower=0
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=7438
 	buildings_max_level_factor=1.000
 }

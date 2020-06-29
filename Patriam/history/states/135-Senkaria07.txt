@@ -4,6 +4,10 @@ state={
 	provinces={
 		142 901 1134 1917 2407 2503 2614 2664 2666 2858 2861 3153 3559 3985 4176 4414 4516 4607 4668 6558 6577 6630 6655 6663 6680 6694 6721 6754 6779 6783 6801 6805 6855 
 	}
-	manpower=0
+	history={
+		owner = QAL
+        	add_core_of = QAL
+   	}
+	manpower=7526
 	buildings_max_level_factor=1.000
 }

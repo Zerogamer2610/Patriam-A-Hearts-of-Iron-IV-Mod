@@ -1,9 +1,13 @@
 state={
 	id=57
-	name="Al Haddari Peninsula"
+	name="Hadaria"
 	provinces={
 		895 1482 2384 2951 3857 4339 4569 7234 7260 7263 
 	}
-	manpower=100
+	history={
+		owner = AKA
+        	add_core_of = AKA
+   	}
+	manpower=7613
 	buildings_max_level_factor=1.000
 }
