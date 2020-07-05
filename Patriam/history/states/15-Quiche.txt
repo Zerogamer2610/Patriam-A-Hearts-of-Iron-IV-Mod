@@ -1,10 +1,20 @@
-
 state={
 	id=22
 	name="Quiche"
-	provinces={
-		39 989 4054 4379 7072 
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = QUI
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = QUI
 	}
-	manpower=100
+	provinces={
+		39 60 538 989 1483 3075 3524 3688 4054 4369 4379 4558 6980 7009 7016 7026 7038 7055 7061 7072 
+	}
 	buildings_max_level_factor=1.000
 }

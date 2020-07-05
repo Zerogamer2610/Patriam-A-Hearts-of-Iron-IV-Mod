@@ -1,9 +1,20 @@
 state={
 	id=74
 	name="Bjurijin's Points"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		294 833 1238 1728 2231 2620 2654 3236 3331 3368 3570 3844 3984 4278 4303 4412 6209 6249 6261 6269 6273 6287 6309 6333 6350 6395 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

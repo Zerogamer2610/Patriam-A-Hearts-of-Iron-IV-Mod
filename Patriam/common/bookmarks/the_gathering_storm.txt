@@ -2,16 +2,16 @@ bookmarks = {
 	bookmark = {
 		name = "The Age of Expansion"
 		desc = "The Age of Expansion is upon Patriam"
-		date = 11750.1.1.12
+		date = 17500.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "NOR"
 		default = yes
 		
 		"KET"={
-			history = "The Merchant Empire of Ketan - Home of global trade."
+			history = "TEST COUNTRY"
 		}
 		"NOR"={
-			history = "The Norkinian Empire - Currently in the midst of the Norkinian Succession Crisis."
+			history = "I vow to thee, my Empire"
 		}
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !

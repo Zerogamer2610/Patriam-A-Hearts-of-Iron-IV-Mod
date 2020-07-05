@@ -1,9 +1,20 @@
 state={
 	id=19
 	name="Lorealeia"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = LOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = LOR
+	}
 	provinces={
 		400 2807 2959 4500 7010 7119 
 	}
-	manpower=0
 	buildings_max_level_factor=1.000
 }

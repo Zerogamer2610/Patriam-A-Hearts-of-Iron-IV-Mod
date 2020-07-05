@@ -1,9 +1,23 @@
 state={
 	id=1
 	name="Minos"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			6303 1
+		}
+	}
 	provinces={
 		525 925 2190 2934 3305 3497 4069 4510 6531 6542 6567 6584 7614 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

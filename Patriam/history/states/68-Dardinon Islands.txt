@@ -1,9 +1,20 @@
 state={
 	id=68
 	name="Dardinon Islands"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		582 1764 2158 2814 2954 2981 3723 3946 4040 4398 4852 6152 6187 6199 6212 6219 6235 6247 6271 6275 6307 7611 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

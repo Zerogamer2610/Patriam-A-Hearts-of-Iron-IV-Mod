@@ -1,9 +1,20 @@
 state={
 	id=12
 	name="Amotean"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+	}
 	provinces={
 		179 737 1901 2570 3402 6141 6154 6158 6164 6175 6181 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

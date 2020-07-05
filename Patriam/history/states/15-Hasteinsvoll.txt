@@ -1,9 +1,23 @@
 state={
 	id=18
 	name="Hasteinsvoll"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+		victory_points = {
+			763 1
+		}
+	}
 	provinces={
 		475 763 968 1330 1477 2929 4009 5953 5981 6002 6004 6020 6031 6037 6043 6077 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

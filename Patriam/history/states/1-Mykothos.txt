@@ -2,9 +2,23 @@
 state={
 	id=3
 	name="Mykothos"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			6303 1
+		}
+	}
 	provinces={
 		199 1022 1721 2334 4107 4521 4643 4683 6298 6311 6324 6327 6344 6352 6367 6368 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

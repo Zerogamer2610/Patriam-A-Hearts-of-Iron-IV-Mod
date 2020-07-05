@@ -1,9 +1,20 @@
 state={
 	id=40
 	name="Bjarn's Point"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		1658 2481 3385 3647 3730 3787 4084 4408 4651 4792 5787 5849 5875 5932 5935 6001 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

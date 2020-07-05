@@ -1,9 +1,20 @@
 state={
 	id=27
 	name="Drokon"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		2278 2514 2696 3550 3792 4434 4501 4666 6234 6276 6318 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

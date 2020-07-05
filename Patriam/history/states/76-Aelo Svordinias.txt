@@ -1,9 +1,20 @@
 state={
 	id=76
 	name="Aelo Svordinias"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		144 1805 3137 3739 4101 4126 4312 4506 4719 6411 6517 6543 6587 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

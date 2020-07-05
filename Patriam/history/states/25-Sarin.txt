@@ -1,9 +1,20 @@
 state={
 	id=30
 	name="Sarin"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		1010 1018 2541 2802 2977 3363 4228 4564 4718 5688 5710 5717 5727 5741 5765 5799 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

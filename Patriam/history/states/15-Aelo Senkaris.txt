@@ -1,9 +1,20 @@
 state={
 	id=23
 	name="Aelo Senkaris"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = AEO
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = AEO
+	}
 	provinces={
 		1187 2859 3617 3885 6610 6632 6642 6715 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

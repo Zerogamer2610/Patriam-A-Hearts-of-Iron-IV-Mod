@@ -2,9 +2,20 @@
 state={
 	id=45
 	name="Fjurit"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		291 1639 1753 1876 2205 2450 2899 3930 3960 4151 5750 5776 5788 5812 5824 5846 5884 5897 5943 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

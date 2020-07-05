@@ -1,9 +1,20 @@
 state={
 	id=26
 	name="Arrowhead"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		258 6205 6208 6226 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

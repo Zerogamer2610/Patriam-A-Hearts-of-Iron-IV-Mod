@@ -1,9 +1,23 @@
 state={
 	id=21
 	name="Pruzha"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = PRU
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = PRU
+		victory_points = {
+			2841 1
+		}
+	}
 	provinces={
 		601 1676 2009 2839 2841 3453 3797 4119 4438 4848 6711 6726 6750 6760 6770 6777 6821 6836 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

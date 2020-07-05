@@ -1,9 +1,20 @@
 state={
 	id=75
 	name="Aelo Norkinias"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		365 431 479 2150 2867 2943 3007 3396 3918 4021 4263 4486 6385 6409 6417 6481 6482 6490 6516 6563 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

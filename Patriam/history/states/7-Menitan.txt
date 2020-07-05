@@ -1,9 +1,23 @@
 state={
 	id=7
 	name="Menitan"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			6303 1
+		}
+	}
 	provinces={
 		2233 3268 3494 4617 6304 6317 6341 6379 6383 6396 6403 
 	}
-	manpower=0
 	buildings_max_level_factor=1.000
 }

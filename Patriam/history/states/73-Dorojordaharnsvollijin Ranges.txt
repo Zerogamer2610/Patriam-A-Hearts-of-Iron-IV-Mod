@@ -1,9 +1,20 @@
 state={
 	id=73
 	name="Dorojordaharnsvollijin Ranges"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		355 656 893 1033 1657 1961 2047 2061 2071 2171 2539 3306 3743 3836 4167 4185 4224 4471 4528 5455 5456 5462 5465 5487 5513 5518 5527 5542 5547 5554 5563 5574 5594 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

@@ -1,9 +1,23 @@
 state={
 	id=8
 	name="Talei Island"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			3962 1
+		}
+	}
 	provinces={
 		3962 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

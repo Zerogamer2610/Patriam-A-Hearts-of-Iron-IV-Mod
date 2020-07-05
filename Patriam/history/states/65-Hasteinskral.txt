@@ -1,9 +1,20 @@
 state={
 	id=65
 	name="Hasteinskral"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		110 1480 1587 2391 2502 2574 3655 3945 4384 5900 5947 5997 6003 6028 6073 6093 6107 6115 6135 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

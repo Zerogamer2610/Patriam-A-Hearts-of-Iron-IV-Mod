@@ -1,9 +1,20 @@
 state={
 	id=42
 	name="North Hasteinjorr"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		691 2235 2461 2584 2937 3027 3129 3486 3869 4470 5701 5759 5761 5764 5782 5786 5815 5828 5852 5865 5879 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

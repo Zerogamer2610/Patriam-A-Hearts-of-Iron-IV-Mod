@@ -1,9 +1,23 @@
 state={
 	id=2
 	name="Arnthos"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = KET
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = KET
+		victory_points = {
+			6303 1
+		}
+	}
 	provinces={
 		44 1526 2781 2886 3097 3141 3260 3973 4549 6415 6421 6429 6438 6439 6448 6457 6474 6477 6480 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }

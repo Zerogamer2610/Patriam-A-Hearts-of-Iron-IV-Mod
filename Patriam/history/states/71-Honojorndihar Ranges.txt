@@ -1,9 +1,20 @@
 state={
 	id=71
 	name="Honojorndihar Ranges"
+	manpower = 100
+
+	state_category = metropolis
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 1
+		}
+		add_core_of = NOR
+	}
 	provinces={
 		539 853 1401 1424 1458 1944 1970 2180 2256 2402 2647 2822 2892 2986 2994 3061 3149 3347 3504 3521 3578 4088 4319 4401 4467 4535 4733 4737 4842 5550 5569 5592 5606 5621 5626 5639 5650 5666 5672 5680 5696 5697 5729 5736 5789 5813 5821 5831 5867 5891 
 	}
-	manpower=100
 	buildings_max_level_factor=1.000
 }
