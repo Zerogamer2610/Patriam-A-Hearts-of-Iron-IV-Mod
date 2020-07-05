@@ -1,0 +1,10 @@
+
+state={
+	id=360
+	name="STATE_360"
+	provinces={
+		147 332 411 474 1455 2857 3155 3581 3627 3686 3895 7430 7446 7456 7465 7505 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
