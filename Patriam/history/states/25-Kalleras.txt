@@ -1,6 +1,11 @@
 state={
 	id=28
 	name="Kalleras"
+	history={
+		owner = PAC
+		add_core_of = PAC
+		}
+
 	provinces={
 		429 1214 2961 3144 4524 4705 4762 6227 6258 6259 6281 6312 6331 6338 
 	}

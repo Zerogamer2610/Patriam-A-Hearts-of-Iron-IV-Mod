@@ -2,6 +2,10 @@
 state={
 	id=39
 	name="Svollar"
+	history={
+		owner = PAC
+		add_core_of = PAC
+		}
 	provinces={
 		911 1205 1277 1638 1680 3618 3653 3967 4417 5990 6035 6036 6061 6064 6082 6088 6106 6113 6131 
 	}

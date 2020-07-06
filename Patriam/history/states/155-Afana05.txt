@@ -1,6 +1,10 @@
 state={
 	id=155
 	name="STATE_155"
+	history={
+		owner = PRU
+		add_core_of = PRU
+		}
 	provinces={
 		183 932 1415 2015 2646 2969 3910 4004 4455 6776 6803 6824 6843 6860 6867 6874 6875 6884 6907 
 	}

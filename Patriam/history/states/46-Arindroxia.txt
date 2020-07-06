@@ -1,6 +1,10 @@
 state={
 	id=46
 	name="Arindroxia"
+	history={
+		owner = ALX
+		add_core_of = ALX
+		}
 	provinces={
 		1283 1331 2105 3059 3171 6559 6560 6570 6591 6606 6614 6625 6646 6686 
 	}

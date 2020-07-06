@@ -1,6 +1,10 @@
 state={
 	id=359
 	name="STATE_359"
+	history={
+		owner = QAL
+		add_core_of = QAL
+		}
 	provinces={
 		814 1046 1157 1282 1389 1992 2548 2701 2710 3051 3783 4080 4219 6879 6956 
 	}

@@ -2,16 +2,28 @@ bookmarks = {
 	bookmark = {
 		name = "The Age of Expansion"
 		desc = "The Age of Expansion is upon Patriam"
-		date = 17500.1.1.12
+		date = 11700.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "NOR"
 		default = yes
 		
 		"KET"={
-			history = "TEST COUNTRY"
+			history = "Ketan. Home of global trade. Renouned equally for it's wealthy merchant elite and exotic goods, those who find themselves in Ketan's markets are sure to find anything they desire, for the right price."
 		}
 		"NOR"={
-			history = "I vow to thee, my Empire"
+			history = "Norkinia. The crumbling Empire. The Twin Princes now fight in an epic struggle to preserve their vision of their Father's Empire, and to crown themselves King of the Norkinian Empire."
+		}
+		"UYN"={
+			history = "The Uyn'Hyr. An ancient people who roam the deserts of Mekanis. Their horseback warriors are unmatched across the world. Many travel from across Patriam to seek the council of the Uyn'Hyr."
+		}
+		"AKA"={
+			history = "Akaria. The Ancient Empire of Sand. A powerful southern Empire with influence across Patriam and holdings in both Senkaria, Watol and Kallonia. Very few have the power to match that of the Akarians."
+		}
+		"PRU"={
+			history = "Pruzha. The Great Rival. A newer Empire in the west, becoming rival to both Akaria and Norkinia. As Norkinia begins to crumble and Akaria loses it's grip on it's colonies, the time for Pruzhan hegemony may be near."
+		}
+		"KAI"={
+			history = "The Kaikanjei Dynasty of Wurtum. The legendary civilisation of knowledge and wisdom. Recognised as one of, if not the, oldest civilisation in all of Patriam. Kaikanjei's scholars are known equally for their philosophical work and understanding of perfect warfare."
 		}
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !

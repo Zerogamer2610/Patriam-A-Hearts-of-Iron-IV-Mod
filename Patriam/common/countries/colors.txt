@@ -20,21 +20,55 @@ SRQ = {
 
 NOR = {
 	color = rgb { 41 41 41 }
-	color_ui = rgb { 41, 41, 41 }
+	color_ui = rgb { 41 41 41 }
 }
+
 KET = {
 	color = rgb { 255 145 0 }
 	color_ui = rgb { 255 145 0 }
 }
+
 QUI = {
 	color = rgb { 0 195 25 }
 	color_ui = rgb { 0 195 25 }
 }
+
 PRU = {
 	color = rgb { 1 16 92 }
-	color_ui = rgb { 1 16,92 }
+	color_ui = rgb { 1 16 92 }
 }
+
 KAI = {
 	color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 }
+}
+
+ARC = {
+	color = rgb { 255 69 36 }
+	color_ui = rgb { 255 69 36}
+}
+
+LOR = {
+	color = rgb { 150 0 103 }
+	color_ui = rgb { 150 0 103 }
+}
+
+PAC = {
+	color = rgb { 80 0 150 }
+	color_ui = rgb { 80 0 150 }
+}
+
+ALX = {
+	color = rgb { 0 255 225 }
+	color_ui = rgb { 0 255 225 }
+}
+
+UYN = {
+	color = rgb { 66 66 66 }
+	color_ui = rgb { 66 66 66 }
+}
+
+JUB = {
+	color = rgb { 200 140 0 }
+	color_ui = rgb { 200 140 0 }
 }

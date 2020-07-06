@@ -46,3 +46,43 @@
  SRQ:0 "Saraqa"
  SRQ_DEF:0 "the Saraqan State"
  SRQ_ADJ:0 "Saraqan"
+
+ NOR:0 "Norkinian Empire"
+ NOR_DEF:0 "the Empire of Norkinia"
+ NOR_ADJ:0 "Norkinian"
+
+ PRU:0 "Free Empire of Pruzha"
+ PRU_DEF:0 "the Free Empire of Pruzha"
+ PRU_ADJ:0 "Pruzhan"
+
+ QUI:0 "Quiche"
+ QUI_DEF:0 "Quiche"
+ QUI_ADJ:0 "Quichean"
+
+ ALX:0 "Kingdom of Alexia"
+ ALX_DEF:0 "the Kingdom of Alexia"
+ ALX_ADJ:0 "Alexian"
+
+ PAC:0 "Pacis"
+ PAC_DEF:0 "the Empire of Pacis"
+ PAC_ADJ:0 "Pacisian"
+
+ ARC:0 "Arceus"
+ ARC_DEF:0 "the Kingdom of Arceus"
+ ARC_ADJ:0 "Arceusan"
+
+ LOR:0 "Lorealeia"
+ LOR_DEF:0 "the Kingdom of Lorealeia"
+ LOR_ADJ:0 "Lorealeian"
+
+ KAI:0 "Kaikanjei Dynasty"
+ KAI_DEF:0 "the Kaikanjei Dynasty of Wurtum"
+ KAI_ADJ:0 "Wurtumese"
+
+ UYN:0 "Uyn'Hyr"
+ UYN_DEF:0 "the Uyn'Hyr Horde"
+ UYN_ADJ:0 "Uyn'Hyric"
+
+ JUB:0 "Jubah Empire"
+ JUB_DEF:0 "the Jubah Empire"
+ JUB_ADJ:0 "Jubahan"

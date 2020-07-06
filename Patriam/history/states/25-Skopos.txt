@@ -6,12 +6,12 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = NOR
+		owner = PAC
 		buildings = {
 			infrastructure = 10
 			industrial_complex = 1
 		}
-		add_core_of = NOR
+		add_core_of = PAC
 	}
 	provinces={
 		11 208 657 927 2143 2285 4147 4443 4775 6306 6319 6349 6359 6362 6394 6483 

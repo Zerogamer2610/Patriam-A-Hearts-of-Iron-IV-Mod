@@ -1,6 +1,10 @@
 state={
 	id=320
 	name="STATE_320"
+	history={
+		owner = KAI
+		add_core_of = KAI
+		}
 	provinces={
 		371 413 549 2025 3086 4298 4464 5140 5148 5173 
 	}
