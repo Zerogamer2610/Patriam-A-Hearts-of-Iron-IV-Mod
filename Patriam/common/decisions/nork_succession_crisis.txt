@@ -1,0 +1,40 @@
+patriam_succesion_crisis = {
+	help_prince_elric = {
+
+		icon = generic_nationalism
+
+		available = {
+			tag = NOR
+		}
+
+		cost = 10
+
+		complete_effect = {
+			
+			add_political_power = -50
+
+		}
+
+		remove_effect = {
+
+			subtract_from_variable = {
+				bjarn_support = 5
+			}
+			
+			add_to_variable = {
+				elric_support = 10
+			}
+		}
+
+
+
+
+
+
+}
+
+
+	help_prince_bjarn = {
+	
+	}
+}

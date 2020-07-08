@@ -12,6 +12,10 @@ bookmarks = {
 		}
 		"NOR"={
 			history = "Norkinia. The crumbling Empire. The Twin Princes now fight in an epic struggle to preserve their vision of their Father's Empire, and to crown themselves King of the Norkinian Empire."
+			ideas = {
+				three_houses
+				nord_prince_crisis
+			}
 		}
 		"UYN"={
 			history = "The Uyn'Hyr. An ancient people who roam the deserts of Mekanis. Their horseback warriors are unmatched across the world. Many travel from across Patriam to seek the council of the Uyn'Hyr."

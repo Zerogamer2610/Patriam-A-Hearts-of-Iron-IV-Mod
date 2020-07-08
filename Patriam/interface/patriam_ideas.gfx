@@ -1,0 +1,11 @@
+spriteTypes = {	
+    spriteType = {
+        name = "GFX_idea_nord_prince_crisis"
+        texturefile = "gfx/interface/ideas/nord_prince_crisis.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_three_houses"
+		textureFile = "gfx/interface/ideas/three_houses.dds"
+	}
+}

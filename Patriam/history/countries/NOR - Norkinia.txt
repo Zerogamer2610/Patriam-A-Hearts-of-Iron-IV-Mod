@@ -1,6 +1,22 @@
-﻿capital = 44
+﻿set_variable = {
+	var = bjarn_support
+	value = 10
+}
 
-OOB = "KET_1936"
+set_variable = {
+	var = elric_support
+	value = 10
+}
+
+add_ideas = { 
+	nord_prince_crisis 
+	three_houses
+}
+
+
+capital = 44
+
+OOB = "NOR_1936"
 
 set_technology = {
 	infantry_weapons = 1

@@ -1,0 +1,47 @@
+ideas = {
+	country = {
+		nord_prince_crisis = {
+			picture = GFX_idea_nord_prince_crisis
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 1
+				consumer_goods_factor = 0.3
+				conscription_factor = -0.5
+				join_faction_tension = 0.20
+				local_resources_factor = -0.2
+			}
+		}
+
+		three_houses = {
+			picture = GFX_idea_three_houses
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 1
+				consumer_goods_factor = 0.3
+				conscription_factor = -0.5
+				join_faction_tension = 0.20
+				local_resources_factor = -0.2
+			}
+		}
+	}
+}

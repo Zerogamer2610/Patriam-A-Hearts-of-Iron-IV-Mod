@@ -1,0 +1,6 @@
+patriam_succesion_crisis = {
+    icon = gfx_
+    visible = {
+        tag = NOR
+    }
+}
